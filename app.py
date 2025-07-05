@@ -6,7 +6,6 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 st.set_page_config(page_title="VALIDATA® | Formulario Predictivo", layout="centered")
 
-st.image("validata_logo.png", width=250)
 st.title("Formulario Predictivo VALIDATA®")
 st.markdown("Completa la información del trámite de forma profesional y segura.")
 
@@ -41,4 +40,3 @@ with st.form("formulario_validata"):
                 st.success("✅ Consulta enviada correctamente. ¡Gracias por confiar en VALIDATA®!")
             except Exception as e:
                 st.error(f"❌ Error al guardar los datos: {e}")
-    
