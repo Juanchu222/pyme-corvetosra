@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "validata-api",
+  "private_key_id": "7393e44e68e24c61695e8ae4045aaf0907861f6b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAZZ6JkRvMSKAg\nzEIgTFxRkKGTnMHf6KNGG2XxYwItGPS7Zc9s6GkdObGr6d5oPOEJj3l94bIRnNW0\nY1GbaJs4Wgi43X4Sjsf5HVYk1mXRzvAD0EZ5bBHbcb9QTnBk7TA3vtn1lPvHe1rg\nj/ue7uSUwg5XyOaG2lgksKdEO+I41KQEJEYwt4IFA9jSE8V12O4g9FGelLk230r4\n2ny5ABPmbA0gugBpxm57LThh7GtjRFPXhVYwZaBdrFof9/OgmiiLXn3bf8lO+Psd\nfsWXVBDn/PNmLxuE5aO2p1Z7dpwgFN+guUMYgNxsvUP6QKi3nQx69N7MquiAtCqm\nfSGEF8L1AgMBAAECggEAUHYvJzkYdwaocQ77WKaWtUXXTPRx4EJahidPKvRNJK8b\nKoQZi2JnE2HdfBgCe3V6Z5UpKgwJfHQqq5YduvC0eYytuSJoZzpvRy+NpzpCusvg\ndLfVwVIA5dVcPSmQt6S6VZXrcVktMu/TwbZ1dLJTxiKh/PR39E28Lxvx2AdzRHBv\nxl8EjclyxmKCt5Is8Ub+tbA+RODuO5Bkcy4tdnelpEGZsEWHMuykgc3oD+YNQlzU\n33vN1SceVcP7ZtLj3x011h1SgOzFl+zJSoIBUVwGfexKfjJcrS5vcbMLPxzF70qO\n81yz+SUEQqEJPbr0S9ammb4rjKlQ5A7oatZo6kuywQKBgQDeVZM8Xm4raugXclf8\nfVSTIXdBgfJ7mf3oCczUKiSmSnFHvw7ryzYKDPZEn2xvzVwC/3GStquZRkfKOcez\nZkNMfLBNpzdiLVN/6B8TeIa8l2cHRMV7a1DLTUosWh+InNmoISCtcsAEnqBsetaS\ni0eNTNmZnokymmX5oJ/MvoiJvwKBgQDdh5KUiWAyvJS4nKlccO7pAItfa2Yick0i\n8BMukTNWogoInU3oAXYFP5CtPfWfctfPKOu8vdPZY+MhqC9BGxhYXWidnVmHN+Q8\nrBPRBisblQFxyUTo4lUQTYs457qPSkm6ux2sAnmU7n4rWR3//edVLqjlIpQ1Zq5R\nXI3KhzKYSwKBgEVASF0MWKpjYSk0b11wuDAfw2J/FEUVgPWOX+NRwRqeo0wioYYm\nRI263dYgBgmI4Hj6kaiOB0L1lhTSDHa/ioS/bbayN9j3n0N+zHcnGmiRjADClfRM\nR90bFNhdtea6XD03HFOKI28M7ZD8bes1QLMtVbW4oKlHWC35rux6CFNHAoGAIXbV\nYbLO4VszbB/eRaSZsoDujN+AcjuqA1kYzLQKeU/JDDwXBLETzv8nL8RoUkna5+Ra\nmAxk8DXynab2XHNnXhHeN9EJMS/0PmYQKEcyQ9xid3nb+wIVr3zHRzVaLUMfmCGj\n/dPx4dmVHZ88tOr6AxglU1fB4787HfdJRArgTbkCgYEAip5eSjl4gqGScnrRARv6\nA47lmHXoKqcE9ylQt0JzdZ9/I65eAr4nk5CWi343Y9lCoWwS4VXWfez725ncHrbQ\n5r88M40mmWBBZ07fWhLFWUg5XhbCRL2dP1e8LBwZDlBKRpF6mSmwHC9d6J1MTeki\nZ2XgRMwNrMDJeYuu0JFLfag=\n-----END PRIVATE KEY-----\n",
+  "client_email": "validata-sheets@validata-api.iam.gserviceaccount.com",
+  "client_id": "111799391964679766316",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/validata-sheets%40validata-api.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
